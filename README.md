@@ -1,16 +1,46 @@
-## Hi there 👋
+# ✨ Dhruv Dhupar ✨
 
-<!--
-**iamanshu712/iamanshu712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I’m+Dhruv!;%F0%9F%9A%80+Learning+%7C+Building+%7C+Growing" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+- 💻 Aspiring Software Developer  
+- 🌱 Currently learning Web Development & DSA  
+- 🔥 Interested in real-world projects  
+- 📍 India
+
+📫 **Reach me at:** your-email@gmail.com
+
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🚀 Learning Goals
+- Data Structures & Algorithms  
+- Full Stack Development  
+- Open Source Contribution  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv1825&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv1825&theme=radical" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
