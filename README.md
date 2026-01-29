@@ -1,46 +1,28 @@
 # ✨ Anshu Yadav ✨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hi%2C+I’m+Dhruv!;%F0%9F%9A%80+Learning+%7C+Building+%7C+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=%F0%9F%91%8BCiao%2C+World!;%F0%9F%9A%80+Always+learning%2C+always+building" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
-- 💻 Aspiring Software Developer  
-- 🌱 Currently learning Web Development & DSA  
-- 🔥 Interested in real-world projects  
-- 📍 India
+## 🙋‍♀️ About Me
 
-📫 **Reach me at:** your-anshuyadav6388150@gmail.com
+- 🌐 Web Developer (HTML, CSS, JavaScript, React)
+- 🤖 Deep Learning & Computer Vision
+- 🎯 Passionate about user-focused digital products
+- 📌 India
+
+📫 Reach me at: **anshuyadav6388150@gmail.com**
 
 ---
 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 🚀 Learning Goals
-- Data Structures & Algorithms  
-- Full Stack Development  
-- Open Source Contribution  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamanshu712&show_icons=true&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,git,mysql,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanshu712&theme=radical" />
+  🚀 Always learning, always building.
 </p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
